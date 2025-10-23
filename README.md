@@ -1,1 +1,1 @@
-# Undergraduate-Postgraduate-Projects
+# Undergraduate/Postgraduate Projects
