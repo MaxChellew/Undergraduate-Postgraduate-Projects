@@ -1,0 +1,46 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers LLC
+Statement,Data,BrokerAddress,"Two Pickwick Plaza, Greenwich, CT 06830"
+Statement,Data,Title,MTM Summary
+Statement,Data,Period,"March 7, 2023 - May 1, 2023"
+Statement,Data,WhenGenerated,"2023-05-02, 05:44:44 EDT"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Max R Chellew
+Account Information,Data,Account,DU6896040
+Account Information,Data,Master Name,Anqi Liu
+Account Information,Data,Account Type,Broker Client
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,0,995545.69450536,0,995545.69450536,995545.69450536
+Net Asset Value,Data,Interest Accruals,0,3576.95,0,3576.95,3576.95
+Net Asset Value,Data,Total,0,999122.64450536,0,999122.64450536,999122.64450536
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,-0.087735549%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,0
+Change in NAV,Data,Mark-to-Market,-7070.68
+Change in NAV,Data,Deposits & Withdrawals,1000000
+Change in NAV,Data,Interest,2865.36
+Change in NAV,Data,Change in Interest Accruals,3576.95
+Change in NAV,Data,Commissions,-248.98549464
+Change in NAV,Data,Ending Value,999122.64450536
+Positions and Mark-to-Market Profit and Loss,Header,Asset Class,Currency,Symbol,Description,Prior Quantity,Quantity,Prior Price,Price,Prior Market Value,Market Value,Position,Trading,Comm.,Other,Total
+Positions and Mark-to-Market Profit and Loss,Data,Stocks,USD,TSLA,TESLA INC,0,0,0,0,0,0,0,-7070.68,-248.98549464,0,-7319.66549464
+Positions and Mark-to-Market Profit and Loss,Data,Total,USD,,,,,,,0,0,0,-7070.68,-248.98549464,0,-7319.66549464
+Positions and Mark-to-Market Profit and Loss,Data,Forex,USD,USD, ,0,995545.69450536,1,1,0,995545.69450536,0,0,0,0,0
+Positions and Mark-to-Market Profit and Loss,Data,Total,USD,,,,,,,0,995545.69450536,0,0,0,0,0
+Positions and Mark-to-Market Profit and Loss,Data,Total (All Assets),USD,,,,,,,0,-7070.68,-248.98549464,0,-7319.66549464
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,USD,2023-03-07,Adjustment: Cash Receipt/Disbursement/Transfer,1000000
+Deposits & Withdrawals,Data,Total,,,1000000
+Interest,Header,Currency,Date,Description,Amount
+Interest,Data,USD,2023-04-05,USD Credit Interest for Mar-2023,2865.36
+Interest,Data,Total,,,2865.36
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,0
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,6442.31
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,-2865.36
+Interest Accruals,Data,Base Currency Summary,FX Translation,-0
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,3576.95

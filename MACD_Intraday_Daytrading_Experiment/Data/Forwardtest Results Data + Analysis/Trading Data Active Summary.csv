@@ -1,0 +1,171 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,Interactive Brokers LLC
+Statement,Data,BrokerAddress,"Two Pickwick Plaza, Greenwich, CT 06830"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"March 7, 2023 - May 1, 2023"
+Statement,Data,WhenGenerated,"2023-05-02, 05:44:06 EDT"
+Disclaimer,Header,Field Name,Field Value
+Disclaimer,Data,Disclaimer,
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,Max R Chellew
+Account Information,Data,Account,DU6896040 (Custom Consolidated)
+Account Information,Data,Master Name,Anqi Liu
+Account Information,Data,Account Type,Broker Client
+Account Information,Data,Customer Type,Individual
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,0,995545.69450536,0,995545.69450536,995545.69450536
+Net Asset Value,Data,Interest Accruals,0,3576.95,0,3576.95,3576.95
+Net Asset Value,Data,Total,0,999122.64450536,0,999122.64450536,999122.64450536
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,-0.087735549%
+Change in Combined NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,0
+Change in NAV,Data,Mark-to-Market,-7070.68
+Change in NAV,Data,Deposits & Withdrawals,1000000
+Change in NAV,Data,Interest,2865.36
+Change in NAV,Data,Change in Interest Accruals,3576.95
+Change in NAV,Data,Commissions,-248.98549464
+Change in NAV,Data,Ending Value,999122.64450536
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,TSLA,0,0,--,--,0,-7070.68,-248.98549464,0,-7319.66549464,
+Mark-to-Market Performance Summary,Data,Total,,,,,,0,-7070.68,-248.98549464,0,-7319.66549464,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,0,-7070.68,-248.98549464,0,-7319.66549464,
+Mark-to-Market Performance Summary,Data,Broker Interest Paid and Received,,,,,,,,,,2865.36,
+Total P/L for Statement Period,,,,,,,,,,,,-4454.30549464,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,TSLA,0,1488.45366084,-8808.11915548,0,0,-7319.66549464,0,0,0,0,0,-7319.66549464,
+Realized & Unrealized Performance Summary,Data,Total,,0,1488.45366084,-8808.11915548,0,0,-7319.66549464,0,0,0,0,0,-7319.66549464,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,1488.45366084,-8808.11915548,0,0,-7319.66549464,0,0,0,0,0,-7319.66549464,
+Cash Report,Header,Currency Summary,Currency,Total,Securities,Futures,Paxos,Month to Date,Year to Date,
+Cash Report,Data,Starting Cash,Base Currency Summary,0,0,0,0,,,
+Cash Report,Data,Commissions,Base Currency Summary,-248.98549464,-248.98549464,0,0,0,0,
+Cash Report,Data,Deposits,Base Currency Summary,1000000,1000000,0,0,0,0,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,2865.36,2865.36,0,0,0,0,
+Cash Report,Data,Trades (Sales),Base Currency Summary,3675530.58,3675530.58,0,0,0,0,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-3682601.26,-3682601.26,0,0,0,0,
+Cash Report,Data,Ending Cash,Base Currency Summary,995545.69450536,995545.69450536,0,0,,,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,999589.25450536,999589.25450536,0,0,,,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Account,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-28, 11:36:12",-150,188.71,189.19,28306.5,-1.248202,-28305.251798,0,-72,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-28, 11:56:00",150,188.64,189.19,-28296,-1,28305.251798,8.251798,82.5,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-28, 12:05:02",-150,188.49,189.19,28273.5,-1.247938,-28272.252062,0,-105,O
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-28, 13:01:49",100,186.19,189.19,-18619,-1,18848.168041,228.168041,300,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-28, 13:03:30",50,186.17,189.19,-9308.5,-1,9424.084021,114.584021,151,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-29, 13:23:09",-150,192.13,193.88,28819.5,-1.252306,-28818.247694,0,-262.5,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-29, 13:31:28",150,192.6,193.88,-28890,-1,28818.247694,-72.752306,192,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-29, 13:33:32",-150,192.23,193.88,28834.5,-1.252426,-28833.247574,0,-247.5,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-29, 14:10:24",150,191.23,193.88,-28684.5,-1,28833.247574,147.747574,397.5,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-30, 11:30:24",-150,196.37,195.28,29455.5,-1.257394,-29454.242606,0,163.5,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-30, 12:45:24",150,195.53,195.28,-29329.5,-1,29454.242606,123.742606,-37.5,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:10:48",-300,204.16,207.46,61248,-2.033484,-61245.966516,0,-990,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:15:22",100,204.94,207.46,-20494,-1,20414.822172,-80.177828,252,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:15:43",200,204.87,207.46,-40974,-1,40831.144344,-143.855656,518,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:20:43",-300,204.723333333,207.46,61417,-2.034836,-61414.965164,0,-821,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:33:44",300,206,207.46,-61800,-1.5,61414.965164,-386.534836,438,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 12:45:34",-300,205.6365,207.46,61690.95,-2.0370276,-61688.9129724,0,-547.05,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-03-31, 13:58:26",300,205.77,207.46,-61731,-1.5,61688.912972,-43.587028,507,C
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 11:41:27",-300,191.01,192.58,57303,-2.001924,-57300.998076,0,-471,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 11:44:27",300,191.3833,192.58,-57414.99,-1.5,57300.998076,-115.491924,359.01,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 13:45:30",-400,191.875,192.58,76750,-2.672,-76747.328,0,-282,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 13:51:03",400,192.525,192.58,-77010,-2,76747.328,-264.672,22,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 14:00:34",-400,192.11,192.58,76844,-2.672752,-76841.327248,0,-188,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-04, 14:41:48",400,191.6175,192.58,-76647,-2,76841.327248,192.327248,385,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-05, 13:36:28",-500,185.52,185.52,92760,-3.31458,-92756.68542,0,0,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-05, 13:53:27",500,186.218,185.52,-93109,-2.5,92756.68542,-354.81458,-349,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-05, 14:20:24",-500,186.33,185.52,93165,-3.31782,-93161.68218,0,405,O
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-05, 15:15:21",500,184.988,185.52,-92494,-2.5,93161.68218,665.18218,266,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-11, 14:05:39","-1,000",187.91,186.79,187910,-6.64828,-187903.35172,0,1120,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-11, 14:30:14","1,000",188.38564,186.79,-188385.64,-5,187903.35172,-487.28828,-1595.64,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-13, 11:43:49","-1,000",185.51107,185.9,185511.07,-6.62908856,-185504.44091144,0,-388.93,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-13, 12:25:09","1,000",185.77946,185.9,-185779.46,-5,185504.44091,-280.01909,120.54,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-18, 11:40:13","-2,000",184.3265,184.31,368653,-13.239224,-368639.760776,0,33,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-18, 12:09:43","2,000",185.03,184.31,-370060,-10,368639.760776,-1430.239224,-1440,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-18, 12:49:41",-500,185.216,184.31,92608,-3.313364,-92604.686636,0,453,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-18, 13:09:29",500,185.42,184.31,-92710,-2.5,92604.686636,-107.813364,-555,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-21, 13:18:26","-2,000",164.989,165.08,329978,-12.929824,-329965.070176,0,-182,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-21, 13:36:17","2,000",165.4,165.08,-330800,-10,329965.070176,-844.929824,-640,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-25, 12:26:24","-5,000",162.94579,160.67,814728.95,-32.2428316,-814696.7071684,0,11378.95,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-04-25, 13:00:35","5,000",162.9494,160.67,-814747,-25,814696.707166,-75.292834,-11397,C;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-05-01, 13:32:09","-6,000",161.879018333,161.83,971274.11,-38.64019288,-971235.46980712,0,294.11,O;P
+Trades,Data,Order,Stocks,USD,DU6896040,TSLA,"2023-05-01, 13:45:20","6,000",162.552945,161.83,-975317.67,-30,971235.469807,-4112.200193,-4337.67,C;P
+Trades,SubTotal,,Stocks,USD,TSLA,,,0,,,-7070.680000001,-248.98549464,-0.00000436,-7319.665499,-7070.68,
+Trades,Total,,Stocks,USD,,,,,,,-7070.680000001,-248.98549464,-0.00000436,-7319.665499,-7070.68, 
+Deposits & Withdrawals,Header,Currency,Account,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,USD,DU6896040,2023-03-07,Adjustment: Cash Receipt/Disbursement/Transfer,1000000
+Deposits & Withdrawals,Data,Total,,,,1000000
+Interest,Header,Currency,Account,Date,Description,Amount
+Interest,Data,USD,DU6896040,2023-04-05,USD Credit Interest for Mar-2023,2865.36
+Interest,Data,Total,,,,2865.36
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,0
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,6442.31
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,-2865.36
+Interest Accruals,Data,Base Currency Summary,FX Translation,-0
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,3576.95
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,TSLA,TESLA INC,76792991,US88160R1014,NASDAQ,1,COMMON,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,AFx,AutoFX conversion resulting from trading
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,The fractional portion of this trade was executed against IB or an affiliate.
+Codes,Data,FPA,The fractional portion of this trade was executed against IB or an affiliate. IB acted as agent for the whole share portion of this trade.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,The transaction was executed against IB or an affiliate
+Codes,Data,IM,A portion of the order was executed against IB or an affiliate; IB acted as agent on a portion.
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,P,Partial Execution
+Codes,Data,PI,Price Improvement
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Rb,Rebill
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
